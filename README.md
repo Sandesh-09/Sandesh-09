@@ -1,19 +1,32 @@
 <h1 align="center">Hi 👋, I'm Sandesh Gupta</h1>
 <h3 align="center">Full-Stack Developer | DSA Enthusiast | Building Scalable AI Web Applications</h3>
 
-- 🔭 I’m currently working on [UGC.AI – AI Video Ads Generator (SaaS)](https://github.com/Sandesh-09/UGC.AI-Video-Ads-Generator)
+---
+### 🚀 About Me
+- 💻 Full Stack Developer with hands-on experience in building scalable web applications  
+- ⚡ Solved 600+ DSA problems across LeetCode, GFG & Coding Ninjas  
+- 🏆 LeetCode Rating: 1531 (Top Contest Rank: 4935)  
+- 🎯 Focused on writing clean, optimized, and production-ready code  
 
-- 🌱 I’m currently learning **System Design, Scalable Backend Architecture & Advanced DSA**
+---
+### 🚀 Projects
+- 🔹 [**UGC.AI** – AI-powered Video Ads Generator (SaaS)](https://ugc-ai-frontend.onrender.com/)
+- 🔹 **AI Voice Assistant** – MERN-based intelligent assistant  
 
-- 👯 I’m looking to collaborate on [AI-powered SaaS applications & Full-Stack MERN projects](https://github.com/Sandesh-09)
+---
+### 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, PostgreSQL, Prisma  
+- **Tools:** Git, GitHub, Postman, Vercel, Sentry  
 
-- 🤝 I’m looking for help with **Scaling backend systems, SaaS architecture & production-level deployments**
+---
 
-- 💬 Ask me about **React, Node.js, Express, MongoDB, PostgreSQL, Prisma & AI integrations**
+### 🌱 Currently Learning
+- System Design  
+- Scalable Backend Architecture
 
-- 📫 How to reach me **sandeshgupta3867@gmail.com**
-
-- ⚡ Fun fact **I debug faster at night than during the day.**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
