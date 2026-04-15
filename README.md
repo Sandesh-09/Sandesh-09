@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 Projects
-- 🔹 [**UGC.AI** – AI-powered Video Ads Generator (SaaS)](https://ug.onrender.com/)
+- 🔹 [**UGC.AI** – AI-powered Video Ads Generator (SaaS)](https://ugc-ai-frontend.onrender.com/)
 - 🔹 **AI Voice Assistant** – MERN-based intelligent assistant  
 
 ---
