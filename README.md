@@ -21,7 +21,7 @@
 - **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, PostgreSQL, Prisma  
-- **Tools:** Git, GitHub, Postman, Vercel, Sentry  
+- **Tools:** Git, GitHub, Postman, Vercel, Render, Sentry  
 
 ---
 
