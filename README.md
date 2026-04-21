@@ -11,17 +11,8 @@
 
 ---
 
-### 🚀 Projects
-- 🔹 [**UGC.AI** – AI-powered Video Ads Generator (SaaS)](https://ugc-ai-frontend.onrender.com/)
-- 🔹 **AI Voice Assistant** – MERN-based intelligent assistant  
-
----
-
-### 🛠️ Tech Stack
-- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, PostgreSQL, Prisma  
-- **Tools:** Git, GitHub, Postman, Vercel, Render, Sentry  
+### 🚀 Project
+- 🔹 [**UGC.AI** – AI-powered Ads Generator (SaaS Platform)](https://ugc-ai-frontend.onrender.com/) 
 
 ---
 
@@ -45,7 +36,7 @@
 📧 <a href="mailto:sandeshgupta3867@gmail.com">sandeshgupta3867@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Tech Stack</h3>
 
 <p align="left">
 
