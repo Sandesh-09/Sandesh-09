@@ -11,8 +11,9 @@
 
 ---
 
-### 🚀 Project
-- 🔹 [**UGC.AI** – AI-powered Ads Generator (SaaS Platform)](https://ugc-ai-frontend.onrender.com/) 
+### 🚀 Projects
+- 🔹 [**UGC.AI** – AI-powered Ads Generator (SaaS Platform)](https://ugc-ai-frontend.onrender.com/)
+- 🔹 [**Virtual AI Assistant** – AI-powered Voice Assistant](https://virtual-ai-assistant-taoj.onrender.com/) 
 
 ---
 
