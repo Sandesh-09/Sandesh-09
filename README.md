@@ -306,19 +306,7 @@ A full-stack blogging platform supporting secure JWT authentication, Markdown re
 
 </p>
 
----
-
-<p align="center">
-<i>"Consistency beats intensity. Every line of code is another step toward mastery."</i>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b><br><br>
-  <i>If you like my work, consider following me on GitHub and connecting with me on LinkedIn.</i>
 </p>
