@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Sandesh_05/">
-    <img src="https://img.shields.io/badge/LeetCode-1531_Max_Rating-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
   <a href="https://www.geeksforgeeks.org/profile/sandesh09">
