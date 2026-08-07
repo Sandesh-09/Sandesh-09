@@ -61,7 +61,7 @@ const sandesh = {
 - 🎓 **B.Tech Information Technology** @ SKIT Jaipur (2023–Present) — **CGPA 8.01**
 - 💼 **Frontend Developer Intern** @ Kistechnosoftware Pvt. Ltd.
 - 🧠 **600+ DSA Problems** solved across LeetCode , GeeksforGeeks and Coding Ninjas
-- ⭐ **LeetCode Contest Rating (Max): 1531 **
+- ⭐ **LeetCode Contest Rating (Max): 1642**
 - 🚀 Passionate about **Full Stack Development, System Design & Scalable Applications**
 - 🤝 Open to **Software Engineering Roles, Full-Time Opportunities & Open Source Contributions**
 
@@ -245,7 +245,7 @@ A full-stack blogging platform supporting secure JWT authentication, Markdown re
 ## 🧠 DSA Journey
 
 - ✅ Solved **600+ Data Structures & Algorithms** problems across **LeetCode** & **GeeksforGeeks**
-- ⭐ Achieved a **Maximum LeetCode Rating of 1531**
+- ⭐ Achieved a **Maximum LeetCode Rating of 1642**
 - 🏅 Earned **50 Days Badge (2025 & 2026)**
 - 🏅 Earned **100 Days Badge (2025 & 2026)**
 - 🎯 Successfully completed the **January LeetCoding Challenge**
