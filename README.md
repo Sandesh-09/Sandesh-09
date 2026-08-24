@@ -24,16 +24,11 @@
   <img src="https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<p align="center">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sandesh-09&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
 </p>
   
-</p>
-
-
-
 ---
 
 # 👨‍💻 About Me
@@ -53,7 +48,7 @@ const sandesh = {
 - 🎓 **B.Tech Information Technology** @ SKIT Jaipur (2023–Present) — **CGPA 8.01**
 - 💼 **Frontend Developer Intern** @ Kistechnosoftware Pvt. Ltd.
 - 🧠 **600+ DSA Problems** solved across LeetCode , GeeksforGeeks and Coding Ninjas
-- ⭐ **LeetCode Contest Rating (Max): 1642**
+- ⭐ **LeetCode Contest Rating (Max): 1678**
 - 🚀 Passionate about **Full Stack Development, System Design & Scalable Applications**
 - 🤝 Open to **Software Engineering Roles, Full-Time Opportunities & Open Source Contributions**
 
@@ -96,8 +91,6 @@ const sandesh = {
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
 
 ---
 
