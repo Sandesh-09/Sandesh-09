@@ -13,25 +13,19 @@
     <img src="https://img.shields.io/badge/Gmail-sandeshgupta3867-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Sandesh-09">
-    <img src="https://img.shields.io/badge/GitHub-Sandesh--09-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
   <a href="https://www.linkedin.com/in/sandesh-gupta09/">
     <img src="https://img.shields.io/badge/LinkedIn-Sandesh_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Sandesh_05/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
   <img src="https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Sandesh_05/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
 
-  <a href="https://www.geeksforgeeks.org/profile/sandesh09">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sandesh-09&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
 </p>
