@@ -32,15 +32,13 @@
   <a href="https://www.geeksforgeeks.org/profile/sandesh09">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-
-  <a href="https://codolio.com/profile/Sandesh_09">
-    <img src="https://img.shields.io/badge/Codolio-Profile-orange?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sandesh-09&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
 </p>
+  
+</p>
+
+
 
 ---
 
