@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sandesh-09&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
 </p>
