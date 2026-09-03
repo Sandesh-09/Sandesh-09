@@ -260,7 +260,7 @@ A full-stack blogging platform supporting secure JWT authentication, Markdown re
 
 <p align="center">
   <a href="https://github.com/Sandesh-09">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandesh-09&theme=tokyo-night&hide_border=true&area=true" />
+    <img src="https://github-activity-chart.vercel.app/graph?username=Sandesh-09&days=31&bg_color=1a1b26&color=a9b1d6&line=7aa2f7&point=bb9af7&area_color=7aa2f7&area=true&hide_border=true" />
   </a>
 </p>
 
